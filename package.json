@@ -1,0 +1,8 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "scripts": {
+    "compileSass": "sass --watch src/scss:dist/sass",
+    "compilePug": "pug -w src/pug -o ./ -P"
+  }
+}
